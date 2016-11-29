@@ -1,3 +1,6 @@
 # A
-project add_time
+
+- [x]  project add_time 
+- [] change stu_sex to stu_gender
+
 # B
