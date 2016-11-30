@@ -5,3 +5,6 @@
 
 # B
 - [ ] cancel kickout tip in console
+
+# C
+- [ ] boost load time, put js end instead of head
