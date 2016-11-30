@@ -4,3 +4,4 @@
 - [ ] change stu_sex to stu_gender
 
 # B
+- [ ] cancel kickout tip in console
